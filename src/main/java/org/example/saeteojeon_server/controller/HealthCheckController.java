@@ -34,7 +34,7 @@ public class HealthCheckController {
 
         return ResponseEntity.ok(responseData);
     }
-
+// 제발 되자 좀 이제
     @GetMapping("/env")
     public ResponseEntity<?> getEnv(){
         return ResponseEntity.ok(env);
