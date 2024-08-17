@@ -1,4 +1,4 @@
-package org.example.saeteojeon_server;
+package org.example.saeteojeon_server.config;
 
 
 
